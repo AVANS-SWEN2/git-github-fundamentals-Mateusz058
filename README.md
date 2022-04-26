@@ -1,3 +1,7 @@
+Gebruiker
+
+Mateusz Kaczanowski - Mateusz058 - m.kaczanowski@student.avans.nl
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
